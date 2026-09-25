@@ -1,8 +1,8 @@
 # DBJ METHOD Skills
 
-Direct mapping to AI Readiness.
+Direct mapping from method.dbj.org to aid the AI implementation of it.
 
 Published at [skills.dbj.org](https://skills.dbj.org) via GitHub Pages — plain static HTML/CSS, no build step.
 
 >[!NOTE]
-Unless otherwise declared &copy; by dbj@dbj.org | CC BY SA 4.0
+&copy; by dbj@dbj.org | MIT License

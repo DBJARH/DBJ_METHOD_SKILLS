@@ -1,8 +1,9 @@
 # CLAUDE.md
 
-1. DBJ's C23 code examples.
+1. claude skills mapping/sourcing method.dbj.org
 2. Make sure user scope claude.md is also read and obeyed `%USERPROFILE%\.claude\CLAUDE.md`
    1. pay special attention to Conversation protocol, in there
+3. Published to https://skills.dbj.org/
 
 ## Document versioning
 
