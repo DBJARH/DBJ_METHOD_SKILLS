@@ -1,6 +1,7 @@
 ---
 title: IP Advisory
 weight: 5
+bookHidden: true
 ---
 
 # Advisory on IP rights

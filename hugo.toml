@@ -15,8 +15,3 @@ theme = 'hugo-book'
   BookComments = false
   BookSearch = true
 
-[menu]
-  [[menu.after]]
-    name = "DBJ Method ↗"
-    url = "https://method.dbj.org"
-    weight = 10

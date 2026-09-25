@@ -49,26 +49,4 @@ Once installed, no manual invocation is needed — Claude loads a skill's
 frontmatter (name + description) automatically and pulls in the full body
 only when a request matches its trigger conditions.
 
-## Intellectual Property & Licensing
-
-IP in this site belongs to Resilient ROI Ltd. IP in DBJ.METHOD belongs to
-Dušan Jovanović (dbj@dbj.org).
-
-DBJ.METHOD — including the Taxonomy, B-P-T Operating Model, DBJ CMM, and DBJ
-ADM — is the original work of Dušan Jovanović (DBJ), practicing under
-DBJ.METHOD / method.dbj.org since 2011.
-
-© Dušan Jovanović. All DBJ.METHOD content, terminology, and structure
-originate from method.dbj.org and are the author's intellectual property.
-These skill pages are derivative encodings of that source for use with
-Claude.
-
-**License:** this repository's code is licensed under the [MIT
-License](https://github.com/DBJARH/DBJ_METHOD_SKILLS/blob/main/LICENSE).
-
-**Commercial use of DBJ.METHOD:** requires separate licensing terms and
-fees. Contact Dušan Jovanović directly to arrange commercial licensing.
-
 *"High delivery. Low hype. ROI next."*
-
-See also: [IP Advisory]({{< relref "ip-advisory" >}})
