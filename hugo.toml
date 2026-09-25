@@ -1,0 +1,22 @@
+baseURL = 'https://skills.dbj.org/'
+languageCode = 'en'
+title = 'DBJ METHOD Skills'
+theme = 'hugo-book'
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  BookTheme = 'dark'
+  BookToC = true
+  BookRepo = 'https://github.com/DBJARH/DBJ_METHOD_SKILLS'
+  BookEditPath = 'edit/main/content'
+  BookComments = false
+  BookSearch = true
+
+[menu]
+  [[menu.after]]
+    name = "DBJ Method ↗"
+    url = "https://method.dbj.org"
+    weight = 10
